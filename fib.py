@@ -7,5 +7,5 @@ def fib(N):
     return n0
 
 if __name__ == "__main__":
-    for i in range(30):
+    for i in range(20):
         print(fib(i))
